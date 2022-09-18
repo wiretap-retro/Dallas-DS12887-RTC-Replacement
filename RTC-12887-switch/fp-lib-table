@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EXT_BATT)(type KiCad)(uri "//192.168.1.100/Personal/Charlie/~Retro/~PCB's and Kits/Dallas 12887 RTC with Switch/RTC-12887-switch")(options "")(descr ""))
+)
